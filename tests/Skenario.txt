@@ -1,0 +1,24 @@
+Daftar Skenario:
+
+Menyukai Film.
+- Film belum disukai.
+- Widget untuk menyukai film ditampilkan.
+- Widget menyukai film ditekan oleh pengguna.
+- Film ditambahkan ke daftar film yang disukai.
+
+  - Film berhasil ditambahkan.
+  - Ternyata film sudah disukai.
+    - Tidak perlu menyimpan kembali.
+
+  - Data film tidak memiliki ID.
+    - Sistem tidak memproses penyimpanan.
+    - Sistem tidak gagal.
+    - Batal Menyukai Film.
+
+Film sudah disukai.
+- Widget untuk batal menyukai film ditampilkan.
+- Widget pembatalan ditekan oleh pengguna.
+
+- Film dihapus dari daftar film yang disukai.
+  - Film berhasil dihapus.
+  - Ternyata film tidak ada dalam daftar film yang disukai.
